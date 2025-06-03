@@ -3,7 +3,7 @@
 This repository contains code and scripts for the thesis
 
 ## Overview of Files
-- `Malaga_dataload_APX.ipynb` , ` Monpellier_data_APX.ipynb`  and ` Østbirk_load_APX.ipynb` 
+- `M_dataload.ipynb` , ` Mo_data.ipynb`  and ` Ø_load.ipynb` 
   Contain the loading of data from the three locations, merging the data, and data preprocessing.
 
 - `loaf_france.ipynb`
